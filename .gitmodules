@@ -1,0 +1,3 @@
+[submodule "ecell4_base"]
+	path = ecell4_base
+	url = https://github.com/ecell/ecell4_base.git
